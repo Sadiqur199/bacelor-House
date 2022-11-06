@@ -1,0 +1,42 @@
+.button-design{
+  border-radius: 200px;
+}
+.logo-design{
+  height: 50px;
+  width: 50px;
+  /* border-radius: 200px; */
+}
+.card-image-design{
+  height: 191px;
+}
+body{
+  overflow-x: hidden;
+}
+.card-body{
+  background-color:  rgb(210, 194, 194);
+}
+.card-design{
+  background-color: rgb(232, 223, 223);
+}
+.terms-image-design{
+  width: 65px;
+  height: 44px;
+}
+
+.about-bg-design{
+  background-color: rgb(232, 223, 223);
+  padding-bottom: 20px;
+}
+.footer-bg-design{
+   background: rgb(21, 20, 20);
+   color: white;
+}
+#social_icons {
+  padding: .3em;
+  display: inline-block;
+}
+.topmenu li {
+  display:inline-block;
+  font-size: 1.5em;
+  text-align: right;
+}
